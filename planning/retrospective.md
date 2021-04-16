@@ -1,5 +1,4 @@
 # Retrospective
-
 ## Stop Doing
 
 - So long calls.

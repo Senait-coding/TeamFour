@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center" id="top"> 
   Incremental Development
 
@@ -75,3 +76,6 @@ https://github.com/bringmetheaxx/TeamFour/blob/main/LICENSE)
 
 <a href="#top">Back to top</a>
 
+=======
+# Project Definition
+>>>>>>> 739b4a9ab384ed6235f9780ec12a1b2d595453ad
